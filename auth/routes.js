@@ -42,5 +42,4 @@ router.get('/secret-endpoint', (req, res) => {
   }
 })
 
-
 module.exports = router

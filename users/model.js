@@ -21,5 +21,4 @@ const User = sequelize.define(
     logging: false
   })
 
-
 module.exports = User
